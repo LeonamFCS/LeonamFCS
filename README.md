@@ -23,3 +23,5 @@ Atualmente trabalhando em um projeto para desenvolver um site da escola.<br>Faze
 [![](https://komarev.com/ghpvc/?username=LeonamFCS&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![GitHub Streak](https://herokuapp.com)](https://git.io)
