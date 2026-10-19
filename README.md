@@ -4,11 +4,20 @@
 
 <br>
 
+<!-- SUBTÍTULO ESTÉTICO -->
 <p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
+<!-- SEÇÃO DE TECNOLOGIAS EM AZUL NEON -->
 <p align="center">
-  <img src="https://herokuapp.com" alt="Streak do GitHub" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="HTML" />
+  <img src="https://shields.io" alt="CSS" />
+  <img src="https://shields.io" alt="JS" />
+</p>
+
+<!-- LINK PARA O SEU DISCORD -->
+<p align="center">
+  <img src="https://shields.io" alt="Discord" />
 </p>
