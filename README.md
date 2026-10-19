@@ -24,6 +24,4 @@ Atualmente trabalhando em um projeto para desenvolver um site da escola.<br>Faze
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Estatísticas do GitHub](https://vercel.app)
-
-
+![Gráfico de Atividades](https://vercel.app)
