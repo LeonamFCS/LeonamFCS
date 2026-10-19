@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://giphy.com" width="550" height="300" style="object-fit: cover;">
+  <img src="https://giphy.com" width="600">
 </p>
