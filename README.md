@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://artstation.com" width="100%">
+  <img src="https://giphy.com" width="550" height="300" style="object-fit: cover;">
 </p>
