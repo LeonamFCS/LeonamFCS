@@ -24,5 +24,6 @@ Atualmente trabalhando em um projeto para desenvolver um site da escola.<br>Faze
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GitHub Streak](https://herokuapp.com)
+![Estatísticas do GitHub](https://vercel.app)
+
 
